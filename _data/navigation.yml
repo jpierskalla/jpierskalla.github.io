@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "Home"
+    url: https://jpierskalla.github.io/
+  - title: "Publications"
+    url: /pages/publications/
+  - title: "Working Papers"
+    url: /pages/workingPapers/
+  - title: "Teaching"
+    url: /pages/teaching/
+  - title: "CV"
+    url: /papers/JanCV2022.pdf
