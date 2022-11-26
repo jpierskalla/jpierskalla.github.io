@@ -6,7 +6,7 @@ layout: single
 author_profile: true
 ---
 
-# Ohio State University
+__Ohio State University__
 
 POLITSC 7260 Authoritarian Politics, Spring 2022
 
