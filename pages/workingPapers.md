@@ -8,14 +8,20 @@ author_profile: false
 
 __Working Papers:__
 
+2022. L. Paler, J. Springman, G. Grossman, and J. Pierskalla. "Oil Discoveries and Political Windfalls: Evidence on Presidential Support in Uganda." *Revise & Re-Submit*
 
-Oil Discoveries and Political Windfalls: Evidence on Presidential Support in Uganda. Laura Paler, Jeremy Springman, Guy Grossman, and Jan Pierskalla (2022)
+2022. V. Chlouba, J. Pierskalla, and E. Wibbels. "Historical Exposure to Statehood, Ethnic Exclusion, and Government Legitimacy." *Revise & Re-Submit*
 
-State-Building and the Origin of Universities in Europe, 800-1800. Florian Hollenbach and Jan Pierskalla (2022).
+2022. F. Hollenbach, J. Magat, and J. Pierskalla. "Universities and Democratization."
 
-Historical Exposure to Statehood, Ethnic Exclusion, and Government Legitimacy. Vladimir Chlouba, Jan Pierskalla, and Erik Wibbels (2022).
+2022. F. Hollenbach and J. Pierskalla. "The Origin of Universities in Europe, 800-1800."
 
-Universities and Democratization. Florian Hollenbach, Janica Magat, and Jan Pierskalla (2022).
+__Work in Progress:__
+2022. M. Alam, D. Smith, S. Wagner, and J. Pierskalla *Technological Change and Colonial Expansion*
+
+2022. A. De Juan, F. Haass, and J. Pierskalla *Decentralized networks and bureaucratic careers in autocracies*
+
+2022. A. De Juan, F. Haass, and J. Pierskalla *The effects of early childhood indoctrination in the GDR*
 
 
 
