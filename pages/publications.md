@@ -41,7 +41,7 @@ __Articles and Book Chapters:__
 
 2017. J. Pierskalla and A. Sacks. [Unpacking the Effect of Decentralization on Routine Violence: Lessons from Indonesia.](http://www.sciencedirect.com/science/article/pii/S0305750X15304472), **World Development**, 90 (February): 213--228.
 
-2017. M. Basedau, J. Fox, J. Pierskalla, G. Str\"{u}ver, and J. Vüllers. [Does discrimination breed grievances -- and do grievances breed violence? New evidence from an analysis of religious minorities in developing countries.](http://cmp.sagepub.com/content/early/2015/07/21/0738894215581329.full), **Conflict Management & Peace Science**, 34 (3): 217--239.
+2017. M. Basedau, J. Fox, J. Pierskalla, G. Strüver, and J. Vüllers. [Does discrimination breed grievances -- and do grievances breed violence? New evidence from an analysis of religious minorities in developing countries.](http://cmp.sagepub.com/content/early/2015/07/21/0738894215581329.full), **Conflict Management & Peace Science**, 34 (3): 217--239.
 
 2016. C. Koos and J. Pierskalla. [The Effects of Oil Production and Ethnic Representation on Violent Conflict in Nigeria: A Mixed-Method Approach.](http://www.tandfonline.com/doi/abs/10.1080/09546553.2014.962021), **Terrorism and Political Violence**, 28 (5): 888-911.
 
