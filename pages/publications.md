@@ -6,11 +6,11 @@ layout: single
 author_profile: true
 ---
 
-# Book
+__Book__
 
 2022. J. Pierskalla. [Democratization and the State. Competence, Control, and Performance in the Indonesian Civil Service](https://doi.org/10.1017/9781009264839), Cambridge Elements Political Economy Series, Cambridge University Press.
 
-# Artciles and Book Chapters
+__Articles and Book Chapters__
 2021. A. De Juan, F. Haass, and J. Pierskalla. [The partial effectiveness of indoctrination in autocracies: Evidence from a natural experiment in the German Democratic Republic.](https://www.cambridge.org/core/journals/world-politics/article/abs/partial-effectiveness-of-indoctrination-in-autocracies/3E8EDA6B1DCEB8DCCEB697864B092BDC) World Politics, 73 (4): pp.593-628.
 
 2021. J. Pierskalla, A. Lauretig, D. Rosenberg, and A. Sacks. [Democratization and Representative Bureaucracy---An Analysis of Promotion Patterns in Indonesia's Civil Service, 1980-2015.](https://onlinelibrary.wiley.com/doi/abs/10.1111/ajps.12536), American Journal of Political Science, 65 (2): 261-277. Winner of the 2018 APSA-SEAPRG Best Paper Award (prior working paper version)
