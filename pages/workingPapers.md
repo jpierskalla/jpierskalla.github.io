@@ -17,11 +17,11 @@ __Working Papers:__
 2022. F. Hollenbach and J. Pierskalla. "The Origin of Universities in Europe, 800-1800."
 
 __Work in Progress:__
-2022. M. Alam, D. Smith, S. Wagner, and J. Pierskalla *Technological Change and Colonial Expansion*
+2022. M. Alam, D. Smith, S. Wagner, and J. Pierskalla. *Technological Change and Colonial Expansion*
 
-2022. A. De Juan, F. Haass, and J. Pierskalla *Decentralized networks and bureaucratic careers in autocracies*
+2022. A. De Juan, F. Haass, and J. Pierskalla. *Decentralized networks and bureaucratic careers in autocracies*
 
-2022. A. De Juan, F. Haass, and J. Pierskalla *The effects of early childhood indoctrination in the GDR*
+2022. A. De Juan, F. Haass, and J. Pierskalla. *The effects of early childhood indoctrination in the GDR*
 
 
 
