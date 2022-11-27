@@ -6,6 +6,9 @@ layout: single
 author_profile: true
 ---
 
+[Google Scholar](https://scholar.google.com/citations?user=qMFWICsAAAAJ&hl=en&oi=ao)
+[Dataverse](https://dataverse.harvard.edu/dataverse/pierskalla)
+
 __Book:__
 
 J. Pierskalla. [Democratization and the State. Competence, Control, and Performance in the Indonesian Civil Service](https://doi.org/10.1017/9781009264839), Cambridge Elements Political Economy Series, Cambridge University Press. 2022.
