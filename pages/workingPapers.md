@@ -8,9 +8,8 @@ author_profile: false
 
 __Working Papers:__
 
-2022. L. Paler, J. Springman, G. Grossman, and J. Pierskalla. "Oil Discoveries and Political Windfalls: Evidence on Presidential Support in Uganda." *Revise & Re-Submit*
 
-2022. V. Chlouba, J. Pierskalla, and E. Wibbels. "Historical Exposure to Statehood, Ethnic Exclusion, and Government Legitimacy." *Revise & Re-Submit*
+2022. V. Chlouba, J. Pierskalla, and E. Wibbels. "Historical Exposure to Statehood, Ethnic Exclusion, and Government Legitimacy." *Revised & Re-Submitted*
 
 2022. F. Hollenbach, J. Magat, and J. Pierskalla. "Universities and Democratization."
 
