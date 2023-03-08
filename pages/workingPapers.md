@@ -9,8 +9,6 @@ author_profile: false
 __Working Papers:__
 
 
-2022. V. Chlouba, J. Pierskalla, and E. Wibbels. "Historical Exposure to Statehood, Ethnic Exclusion, and Government Legitimacy." *Revised & Re-Submitted*
-
 2022. F. Hollenbach, J. Magat, and J. Pierskalla. "Universities and Democratization."
 
 2022. F. Hollenbach and J. Pierskalla. "The Origin of Universities in Europe, 800-1800."
