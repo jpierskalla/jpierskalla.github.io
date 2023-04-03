@@ -33,7 +33,7 @@ J. Pierskalla, A. De Juan, and M. Montgomery. [The Territorial Expansion of the 
 
 J. Pierskalla and A. Sacks. [Unpaved Road Ahead: The Consequences of Election Cycles for Capital Expenditures.](https://www.journals.uchicago.edu/doi/full/10.1086/694547), **Journal of Politics**, 80 (2): 510-524. 2018. 
 
-F. Hollenbach and J. Pierskalla. [A Re-Assessment of Reporting Bias in Event-Based Violence Data with Respect to Cell Phone Coverage.](http://journals.sagepub.com/doi/full/10.1177/2053168017730687), Research & Politics, 4 (3). 2017. 
+F. Hollenbach and J. Pierskalla. [A Re-Assessment of Reporting Bias in Event-Based Violence Data with Respect to Cell Phone Coverage.](http://journals.sagepub.com/doi/full/10.1177/2053168017730687), **Research & Politics**, 4 (3). 2017. 
 
 J. Pierskalla, A. Schultz, and E. Wibbels. [Order, Distance, and Local Development Over the Long-Run.](http://www.nowpublishers.com/article/Details/QJPS-16020), **Quarterly Journal of Political Science**, 12 (4): 375--404. 2017. 
 
