@@ -15,9 +15,9 @@ J. Pierskalla. [Democratization and the State. Competence, Control, and Performa
 
 __Articles and Book Chapters:__
 
-V. Chlouba, J. Pierskalla, and E. Wibbels. "Historical Exposure to Statehood, Ethnic Exclusion, and Government Legitimacy." **Journal of Historical Political Economy**, *Accepted*. 202X.
-
 L. Paler, J. Springman, G. Grossman, and J. Pierskalla. "Oil Discoveries and Political Windfalls: Evidence on Presidential Support in Uganda." **Political Science Research & Methods**, *Forthcoming*. 202X.
+
+V. Chlouba, J. Pierskalla, and E. Wibbels. "[Historical Exposure to Statehood, Ethnic Exclusion, and Government Legitimacy.](http://dx.doi.org/10.1561/115.00000048)" **Journal of Historical Political Economy**, 3(1): 125-160. 2023.
 
 A. De Juan, F. Haass, and J. Pierskalla. [The partial effectiveness of indoctrination in autocracies: Evidence from a natural experiment in the German Democratic Republic.](https://www.cambridge.org/core/journals/world-politics/article/abs/partial-effectiveness-of-indoctrination-in-autocracies/3E8EDA6B1DCEB8DCCEB697864B092BDC) **World Politics**, 73 (4): pp.593-628. 2021. 
 
