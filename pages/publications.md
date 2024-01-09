@@ -15,7 +15,7 @@ J. Pierskalla. [Democratization and the State. Competence, Control, and Performa
 
 __Articles and Book Chapters:__
 
-L. Paler, J. Springman, G. Grossman, and J. Pierskalla. "Oil Discoveries and Political Windfalls: Evidence on Presidential Support in Uganda." **Political Science Research & Methods**, *Forthcoming*. 202X.
+L. Paler, J. Springman, G. Grossman, and J. Pierskalla. "[Oil Discoveries and Political Windfalls: Evidence on Presidential Support in Uganda.](https://doi.org/10.1017/psrm.2023.14)" **Political Science Research & Methods**, 2023.
 
 V. Chlouba, J. Pierskalla, and E. Wibbels. "[Historical Exposure to Statehood, Ethnic Exclusion, and Government Legitimacy.](http://dx.doi.org/10.1561/115.00000048)" **Journal of Historical Political Economy**, 3(1): 125-160. 2023.
 
