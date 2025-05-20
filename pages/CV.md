@@ -6,5 +6,5 @@ layout: single
 author_profile: false
 ---
 
-[You can find my CV here](../papers/JanCV2024.pdf)
+[You can find my CV here](../papers/JanCV2025.pdf)
 
