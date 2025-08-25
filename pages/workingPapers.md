@@ -31,8 +31,5 @@ __Work in Progress:__
 
 
 
-- J. Pierskalla, D. Smith, and J. Vogler “Historical Dynamics of Imperialism: Spatial and Temporal Patterns of Colonization”
-
-
 
 
