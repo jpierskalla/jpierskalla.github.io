@@ -11,13 +11,15 @@ __Working Papers:__
 
 - A. De Juan, F. Haass, and J. Pierskalla. "Decentralized networks and bureaucratic careers in autocracies" (*Conditionally Accepted* at the Journal of Politics)
 
-- V. Chlouba, G. Uzonji, and J. Pierskalla “Displaced but Not Forgotten: The Aterritorial Legacy of the Namibian Genocide” (*Under Review*)
+- A. De Juan, F. Haass, and J. Pierskalla "Gender Penalties in Autocratic Bureaucracies -- Motherhood, Loyalty Signals, and Career Paths in the German Democratic Republic"
+
+- V. Chlouba, G. Uzonji, and J. Pierskalla “Displaced but Not Forgotten: The Aterritorial Legacy of the Namibian Genocide”
 
 - D. Smith and J. Pierskalla “Military Elites and Political Stability, 1000–1800 CE”
 
 - J. Pierskalla, D. Smith, and J. Vogler "Exploring the Origins of Coercive Colonial Institutions: How Economic Interests and Technological Conditions Shape Imperial Military Strategy"
 
-- F. Hollenbach, J. Magat, and J. Pierskalla. "Universities and Democratization."
+- F. Hollenbach, J. Magat, and J. Pierskalla. "Higher Education and the Making of Democratic Elites."
 
 - F. Hollenbach and J. Pierskalla. "The Origin of Universities in Europe, 800-1800."
 
