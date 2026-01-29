@@ -8,9 +8,6 @@ author_profile: false
 
 __Working Papers:__
 
-
-- A. De Juan, F. Haass, and J. Pierskalla. "Decentralized networks and bureaucratic careers in autocracies" (*Conditionally Accepted* at the Journal of Politics)
-
 - A. De Juan, F. Haass, and J. Pierskalla "Gender Penalties in Autocratic Bureaucracies -- Motherhood, Loyalty Signals, and Career Paths in the German Democratic Republic"
 
 - V. Chlouba, G. Uzonji, and J. Pierskalla “Displaced but Not Forgotten: The Aterritorial Legacy of the Namibian Genocide”
@@ -29,7 +26,6 @@ __Work in Progress:__
 
 - A. De Juan, F. Haass, and J. Pierskalla *Cadres and Careers. Indoctrination and Bureaucratic Loyalty in the German Democratic Republic*, Book manuscript
 
-- M. Alam, D. Smith, S. Wagner, and J. Pierskalla. "Technological Change and Colonial Expansion"
 
 
 
