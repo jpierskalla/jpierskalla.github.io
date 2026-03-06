@@ -25,6 +25,7 @@ __Working Papers:__
 __Work in Progress:__
 
 - A. De Juan, F. Haass, and J. Pierskalla *Cadres and Careers. Indoctrination and Bureaucratic Loyalty in the German Democratic Republic*, Book manuscript
+- *Governing Without Leviathan. Governance, Institutions, and State-Building in the Holy Roman Empire*, book-length project in development.
 
 
 
