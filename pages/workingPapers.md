@@ -26,6 +26,8 @@ __Work in Progress:__
 
 - A. De Juan, F. Haass, and J. Pierskalla *Cadres and Careers. Indoctrination and Bureaucratic Loyalty in the German Democratic Republic*, Book manuscript
 - *Governing Without Leviathan. Governance, Institutions, and State-Building in the Holy Roman Empire*, book-length project in development.
+    - Law from Above and Below: The Reichskammergericht and the Governance of the Holy Roman Empire.
+    - The Price of Power: Electoral Capitulations, Constitutional Ratchets, and Constraints on Autocracy in the Holy Roman Empire, 1519–1792
 
 
 
